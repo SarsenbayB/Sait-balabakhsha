@@ -259,7 +259,7 @@
     }
   
     .items {
-      transform: scale(0.9);
+      transform: scale(1.0);
     }
     .img-slider img {
       height: 60vw;
